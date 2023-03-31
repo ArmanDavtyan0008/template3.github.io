@@ -3,62 +3,63 @@
   padding: 0px;
 }
 body {
+    margin-top: 50px;
   background: #450961;
+  justify-content: center;
+  align-items: center;
+  display: flex;
 }
 .params {
   display: flex;
   justify-content: space-between;
-  align-content: center;
-  width: 1800px;
-  height: 900px;
-  margin-left: 12.5%;
-  margin-top: 1%;
+  width: 1400px;
+  height: 600px;
 }
 .maincontent {
-  width: 850px;
-  height: 900px;
+  width: 650px;
+  height: 600px;
 }
 .line {
-  width: 850px;
+  width: 650px;
   height: 100px;
   background: #bd52d6;
 }
 .num2 {
   margin-top: 30px;
   display: flex;
-  width: 850px;
-  height: 800px;
+  width: 650px;
+  height: 600px;
   justify-content: space-between;
   align-content: center;
 }
 .line1-left {
-  width: 400px;
-  height: 770px;
+  width: 300px;
+  height: 470px;
   display: flex;
   flex-direction: column;
 }
 
 .form1 {
-  width: 400px;
-  height: 570px;
+  width: 330px;
+  height: 300px;
   background: #fea611;
 }
 .form2 {
   margin-top: 20px;
-  width: 400px;
-  height: 250px;
+  width: 330px;
+  height: 200px;
   background: #f33e4f;
 }
 
 .line2-left {
-  width: 400px;
-  height: 770px;
+  width: 300px;
+  height: 470px;
   background: #01bed1;
 }
 
 .second-content {
-  width: 850px;
-  height: 900px;
+  width: 650px;
+  height: 600px;
   display: flex;
   justify-content: space-between;
 }
@@ -67,55 +68,57 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  width: 350px;
-  height: 900px;
+  width: 320px;
+  height: 600px;
 }
 
 .item1 {
   border: 1px solid;
-  width: 450px;
+  width: 320px;
   height: 80px;
   background: #f33e4f;
 }
 .item2 {
-  width: 450px;
-  height: 180px;
+  width: 320px;
+  height: 80px;
   background: #01bed1;
 }
 .item3 {
-  width: 450px;
-  height: 230px;
+  width: 320px;
+  height: 150px;
   background: #fea611;
 }
 .item4 {
-  width: 850px;
-  height: 330px;
+  width: 650px;
+  height: 220px;
   background: #bd52d6;
 }
 
 .container-right {
   display: flex;
   flex-direction: column;
-  width: 350px;
-  height: 545px;
+  width: 300px;
+  height: 360px;
   justify-content: space-between;
 }
 
 .items1 {
-  width: 350px;
-  height: 180px;
+  width: 300px;
+  height: 120px;
   background: #01bed1;
 }
 
 .items2 {
-  width: 350px;
-  height: 130px;
+  margin-top: 15px;
+  width: 300px;
+  height: 100px;
   background: #fea611;
 }
 
 .items3 {
-  width: 350px;
-  height: 80px;
+  margin-top: 10px;
+  width: 300px;
+  height: 100px;
   background: #f33e4f;
 }
 
